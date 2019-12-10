@@ -14,7 +14,7 @@ Karen Taggart, Principal Customer Success Engineer, CloudBees, ktaggart@cloudbee
 == How To Contribute
 
 1. Fork the review.
-2. Add your name and contact information to PARTICIPANTS section
+2. Add your name and contact information to <<Participants>> section
 3. Write and edit away! Add to an existing topic, or create a new one. When you are adding an opinion, please write in the third person such as, “ Karen wants to learn more about functional programming because Maxine keeps using it so much in the book to solve and simplify problems.” Be sure to note quotations and use page numbers whenever possible. 
 4. Create a pull request.
 5. Repeat (except #2) as many times as you want.
