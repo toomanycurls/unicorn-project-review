@@ -1,24 +1,17 @@
 = Review: The Unicorn Project
+:toc:
 
-Contents
-
-1.) Project summary
-2.) Participants
-3.) How to Contribute
-4.) Topics
-5.) Conclusion
-
-PROJECT
+== Project Summary
 
 In the spirit of distributed and asynchronous work, we are creating this “Continuous Book Review” for Gene Kim’s latest book, The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data. The format, content, participants, opinions, ideas, etc will be determined by the participants as the review is created.
 
-PARTICIPANTS
+== Participants
 
 Matt Sicker, Senior Software Engineer (Jenkins Security), CloudBees [add more here about yourself, contact information]
 
 Karen Taggart, Principal Customer Success Engineer, CloudBees, ktaggart@cloudbees.com, @AngryTechFeminist
 
-HOW TO CONTRIBUTE
+== How To Contribute
 
 1.) Fork the review.
 2.) Add your name and contact information to PARTICIPANTS section
@@ -26,18 +19,16 @@ HOW TO CONTRIBUTE
 4.) Create a pull request.
 5.) Repeat (except #2) as many times as you want.
 
-TOPICS
+== Topics
 
-BOOK SUMMARY
+=== Book summary
 
-THINGS I WANT TO TRY/IMPLEMENT 
+=== Things I want to try/implement 
 
-I REALLY AGREE WITH…
+=== I really agree with…
 
-I REALLY DISAGREE WITH…
+=== I really disagree with…
 
-DIVERSITY AND INCLUSION
+=== Diversity and inclusion
 
-
-CONCLUSION
-
+== Conclusion
