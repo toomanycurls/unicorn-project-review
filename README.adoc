@@ -27,26 +27,26 @@ Rose Becerra, Senior Product Manager, CloudBees, rbecerra@cloudbees.com, @rose_b
 Maxine is a senior developer at Parts Unlimited. While on vacation she is named as a scapegoat in a payroll outage and is reassigned to the Phoenix Project, which is seen as a punishment for her. Her directions are to lay low for a few months. 
 
 Phoenix Project has many issues which include: 
-Difficulty getting the right environments
-Inability to open source code for project
-Can’t get builds to run locally
-No one knows how to get a new engineer on the project set up
-There are many idle engineers because of this
-PP has been developed by 20+ teams who have not merged all their code together
-Project is over budget and over schedule with an exec mandate to release on an arbitrary date
-Following the process, she wouldn’t get a dev environment for 5 months due to limited disk space
+-Difficulty getting the right environments
+-Inability to open source code for project
+-Can’t get builds to run locally
+-No one knows how to get a new engineer on the project set up
+--There are many idle engineers because of this
+-PP has been developed by 20+ teams who have not merged all their code together
+-Project is over budget and over schedule with an exec mandate to release on an arbitrary date
+-Following the process, she wouldn’t get a dev environment for 5 months due to limited disk space
 
 
 Parts Unlimited has many organizational and leadership issues which include
-Fear based culture (when there is an issue execs look for a person to blame and head to roll)
-Deeply siloed teams which are not incentivized to work together. Bureaucracy slows all progress across the company but especially within Phoenix. 
-Teams do not have full stack responsibility or visibility (e.g. can’t deploy, don’t have access to system telemetry)
-Ops and Security greatly slow down deployment because they are mostly considerations at release -- they haven’t moved left
-PM and design are not even in the picture for most of the book
-Data is owned and doled out by the DW team which slows innovation and change
-The company is not financially performing and the execs are desperate to protect the business/their roles
-Systems are too tightly coupled so that any new/updated feature brings in many teams/systems. “When that happens, youv’e trapped yourself in a system of work where you can no longer solve real business problems -- instead you’re forced to merely solve puzzles all day trying to figure out how to make your small change, obstructed by your complected system every step of the way.” page 106
-TEP-LARB
+-Fear based culture (when there is an issue execs look for a person to blame and head to roll)
+-Deeply siloed teams which are not incentivized to work together. Bureaucracy slows all progress across the company but especially within Phoenix. 
+-Teams do not have full stack responsibility or visibility (e.g. can’t deploy, don’t have access to system telemetry)
+-Ops and Security greatly slow down deployment because they are mostly considerations at release -- they haven’t moved left
+-PM and design are not even in the picture for most of the book
+-Data is owned and doled out by the DW team which slows innovation and change
+-The company is not financially performing and the execs are desperate to protect the business/their roles
+-Systems are too tightly coupled so that any new/updated feature brings in many teams/systems. “When that happens, youv’e trapped yourself in a system of work where you can no longer solve real business problems -- instead you’re forced to merely solve puzzles all day trying to figure out how to make your small change, obstructed by your complected system every step of the way.” page 106
+-TEP-LARB
 
 Maxine is determined to get her own environment up and working when she starts in Phoenix Project. She spends weeks (at least 3) just trying to get her computer to a point where she can open the various projects associated with Phoenix. Meanwhile she sees that they are expected to release all the Phoenix code but there are many blockers which include
 Ops doesn’t know how many servers to provision or what sort of traffic they’ll need to support
@@ -55,25 +55,25 @@ They don’t have a release team formed but hastily assign Wes from Ops as the r
 QA is behind testing and they haven’t done a full test of Phoenix or any testing on the most recent code
 
 Maxine is recruited by Kurt to join the rebellion -- a cross functional team of people who care about getting work done in a less insane way. The rebellion comprises
-Kurt --QA manager who eventually takes a dev manager role
-Maxine
-Cranky Dave -- developer
-Brent -- lead infrastructure
-Shannon -- security 
-Adam -- Ops 
-Dwayne -- dba 
-Kristen -- project management
-Maggie -- product marketing (brought in in the last half of the book)
-Erik Reid -- smart person??? Software sensei 
-They meet up at a bar close to work and share information from their various teams with the goal of increasing collaboration and transparency. Very good representation of informal knowledge network. 
+-Kurt --QA manager who eventually takes a dev manager role
+-Maxine
+-Cranky Dave -- developer
+-Brent -- lead infrastructure
+-Shannon -- security 
+-Adam -- Ops 
+-Dwayne -- dba 
+-Kristen -- project management
+-Maggie -- product marketing (brought in in the last half of the book)
+-Erik Reid -- smart person??? Software sensei 
+-They meet up at a bar close to work and share information from their various teams with the goal of increasing collaboration and transparency. Very good representation of informal knowledge network. 
 
 Erik reveals himself as an all knowing product and software and business god who shares various bits of wisdom with the rebellion. The book mostly focuses on the Five Ideals. They are: 
 
-The First Ideal: Locality and Simplicity 
-The Second Ideal: Focus, Flow, and Joy
-The Third Ideal: Improvement of Daily Work
-The Fourth Ideal: Psychological Safety
-The Fifth Ideal: Customer Focus
+-The First Ideal: Locality and Simplicity 
+-The Second Ideal: Focus, Flow, and Joy
+-The Third Ideal: Improvement of Daily Work
+-The Fourth Ideal: Psychological Safety
+-The Fifth Ideal: Customer Focus
 
 Through the book Maxine and team work through applications of the Five Ideals with various scenarios and players. It’s a Five Ideals how-to guide. 
 
